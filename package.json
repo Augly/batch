@@ -1,0 +1,20 @@
+{
+  "name": "batch",
+  "version": "1.0.0",
+  "description": "这是一个fish钓鱼的脚本",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "百里",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "crypto-js": "^4.1.1",
+    "moment": "^2.29.1",
+    "node-machine-id": "^1.1.12",
+    "readline-sync": "^1.4.10",
+    "web3": "^1.6.0"
+  },
+  "bin": "./index.js"
+}
